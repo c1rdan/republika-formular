@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: '/republika-formular/'
-  }
+  publicPath: "/republika-formular/",
+
+  transpileDependencies: ["vuetify"]
+};
